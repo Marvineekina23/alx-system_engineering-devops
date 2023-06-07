@@ -1,3 +1,17 @@
 #!/bin/bash
+
+
+pwd
+0-current_working_directory
+
+:
+:q
+case :q in
+    
+#!/bin/bash
+<<<<<<< HEAD
 pwd
  0-current_working_directory
+=======
+pwd
+>>>>>>> b8ce46287674f665ac601f15a21cb8711322822b
