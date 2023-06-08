@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+directory_path="/tmp/my_first_directory"
