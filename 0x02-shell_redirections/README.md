@@ -14,3 +14,4 @@ script that deletes all the regular files (not the directories) with a .js exten
 script that counts the number of directories and sub-directories in the current directory..
 script that counts the number of directories and sub-directories in the current directory..
 Display lines containing the pattern “root” from the file /etc/passwd.
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
