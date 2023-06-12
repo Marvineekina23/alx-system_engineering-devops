@@ -22,3 +22,4 @@ Replace all characters A and c from input to Z and e respectively..
 Create a script that removes all letters c and C from input..
 script that reverse its input..
  script that displays all users and their home directories, sorted by users..
+script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line..
